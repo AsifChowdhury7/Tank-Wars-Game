@@ -1,0 +1,15 @@
+
+table,th,td{
+    border-color:lightblue;border-style: solid; border-width: 2px;background-color: #34beb3;margin: 40px;
+  font-weight: normal;
+border:1px solid lightblue;
+
+}
+
+  
+
+
+body{
+  background-color: #b1dd8c;
+  font-family: courier New;
+}
