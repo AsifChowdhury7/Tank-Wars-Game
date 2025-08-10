@@ -40,13 +40,13 @@ Players battle across three maps with unique obstacles, collision mechanics, and
 
 ## Maps
 1. **Map 1** – Static obstacles inside walls; no power-ups.  
-   ![Map 1](assets/Map1.jpg)
+   ![Map 1](assets/map1.jpg)
 
 2. **Map 2** – Similar to Map 1, but includes health power-ups.  
-   ![Map 2](assets/Map2.jpg)
+   ![Map 2](assets/map2.jpg)
 
 3. **Map 3** – New map design with mixed walls and power-ups.  
-   ![Map 3](assets/Map1.jpg)
+   ![Map 3](assets/map1.jpg)
 ---
 
 
