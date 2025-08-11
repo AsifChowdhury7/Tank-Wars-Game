@@ -46,7 +46,7 @@ Players battle across three maps with unique obstacles, collision mechanics, and
    <img src="assets/map2.png" width="650">
 
 3. **Map 3** – New map design with mixed walls and power-ups.  
-   <img src="assets/map1.png" width="650">
+   <img src="assets/map3.png" width="650">
 ---
 
 
